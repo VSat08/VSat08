@@ -4,7 +4,7 @@
 
 ![Welcome Banner](https://user-images.githubusercontent.com/56394042/87230339-67ffdd80-c3bc-11ea-8e58-1f05ae0ec40b.gif)
 
-🚀 **Dynamic B.Tech (CSE) graduate specializing in:**
+🚀 **A Curios soul and Developer from India!:**
 - 🌐 **Full Stack Development**
 - 🎨 **UI/UX Design**
 - ☁️ **Cloud Computing**

@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Satyam Verma
+# 👋Hola! I'm Satyam Verma
 
 ---
 

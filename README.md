@@ -27,7 +27,8 @@
 ![Cloud](https://img.shields.io/badge/-Cloud%20Computing-FF9900?style=flat&logo=amazon-aws&logoColor=white)
 
 ---
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=VSat08&border_radius=28&card_width=425&fire=EB9E09&ring=07A8EB&currStreakLabel=139703)](https://git.io/streak-stats)
+---
 ## 🌟 Projects
 - **Momento Map:** MVC architecture with React, MongoDB, Node.js, Express.js, JWT token authentication, Multer for file storage.![mm1](https://github.com/VSat08/VSat08/assets/88581395/cda4c079-9f00-4bf1-8e7d-fb73fc62be49)
 

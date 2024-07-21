@@ -1,6 +1,5 @@
 # 👋Hola! I'm Satyam Verma
 
----
 
 ![Welcome Banner](https://user-images.githubusercontent.com/56394042/87230339-67ffdd80-c3bc-11ea-8e58-1f05ae0ec40b.gif)
 
@@ -9,37 +8,92 @@
 - 🎨 **UI/UX Design**
 - ☁️ **Cloud Computing**
 
----
 
 ## 💻 Technical Skills
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Cloud](https://img.shields.io/badge/-Cloud%20Computing-FF9900?style=flat&logo=amazon-aws&logoColor=white)
 
----
-[![GitHub Streak](https://streak-stats.demolab.com?user=VSat08&border_radius=28&card_width=425&fire=EB9E09&ring=07A8EB&currStreakLabel=139703)](https://git.io/streak-stats)
----
+<p align="center" >
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Light.svg" alt="Figma" title="Figma" height="50"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" alt="HTML5" title="HTML5" height="50"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" alt="CSS3" title="CSS3" height="50"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" alt="JavaScript" title="JavaScript" height="50"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/React-Dark.svg" alt="React" title="React" height="50"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Redux.svg" alt="Redux" title="Redux" height="50"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NodeJS-Dark.svg" alt="Node.js" title="Node.js" height="50"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NextJS-Light.svg" alt="Next.js" title="Next.js" height="50"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MongoDB.svg" alt="MongoDB" title="MongoDB" height="50"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Light.svg" alt="Java"  title="Java" height="50"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Rust.svg" alt="Rust" title="Rust" height="50"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" alt="Git" title="Git" height="50"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/ExpressJS-Light.svg" alt="Express" title="Express" height="50"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/AWS-Light.svg" alt="AWS" title="AWS" height="50"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TailwindCSS-Light.svg" alt="Tailwind CSS" title="Tailwind CSS" height="50"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TypeScript.svg" alt="TypeScript" title="TypeScript" height="50"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Firebase-Light.svg" alt="Firebase" title="Firebase" height="50"/>
+</p>
+
+
+
+## 📈 GitHub Stats
+
+<div align="center">
+<table>
+  <tr>
+    <td>
+      <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=VSat08&border_radius=28&card_width=425&fire=EB9E09&ring=07A8EB&currStreakLabel=139703" alt="GitHub Streak">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VSat08&layout=compact&card_width=425&border_radius=28&height=195" alt="Top Langs">
+      </a>
+    </td>
+  </tr>
+</table>
+</div>
+
 ## 🌟 Projects
-- **Momento Map:** MVC architecture with React, MongoDB, Node.js, Express.js, JWT token authentication, Multer for file storage.![mm1](https://github.com/VSat08/VSat08/assets/88581395/cda4c079-9f00-4bf1-8e7d-fb73fc62be49)
-
-- **SubTrack:** UI/UX design for a subscription management platform using Figma.![1860a7195792969 66143c1f10e70](https://github.com/VSat08/VSat08/assets/88581395/3314b8a8-b4a3-4ecb-9b5b-a93802f12de6)
-
-- **Digital Twins:** Intuitive UI for 3D Avatar Generator designed with Figma.![Frame 4](https://github.com/VSat08/VSat08/assets/88581395/75cc97be-7a59-4760-a6d7-4d73c5ec9173)
-
-- **YouTube Clone:** Responsive web application mimicking YouTube functionality using React, Tailwind CSS, API.![Screenshot 2024-06-16 224418](https://github.com/VSat08/VSat08/assets/88581395/a152e0e1-0855-4582-aebe-9cf296c78150)
-
-- **To-Do App:** Modern task management application with a sleek UI using React.js and JavaScript.![Screenshot_16-6-2024_224559_vsat08 github io](https://github.com/VSat08/VSat08/assets/88581395/199d95ce-29d9-4f6c-8409-4bcae148f2f5)
-
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>AbodeAlly</h3>
+      <p>A real estate full stack app</p>
+      <img src="https://github.com/user-attachments/assets/d35130f1-6e47-4ec8-b23b-a5b3e5864afc" width="100%">
+    </td>
+    <td align="center" width="50%">
+      <h3>Momento Map</h3>
+      <p>MVC architecture with React, MongoDB, Node.js, Express.js, JWT token authentication, Multer for file storage.</p>
+      <img src="https://github.com/VSat08/VSat08/assets/88581395/cda4c079-9f00-4bf1-8e7d-fb73fc62be49" width="100%">
+    </td>
+    
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>Digital Twins</h3>
+      <p>Intuitive UI for 3D Avatar Generator designed with Figma.</p>
+      <img src="https://github.com/VSat08/VSat08/assets/88581395/75cc97be-7a59-4760-a6d7-4d73c5ec9173" width="100%">
+    </td>
+    <td align="center" width="50%">
+      <h3>SubTrack</h3>
+      <p>UI/UX design for a subscription management platform using Figma.</p>
+      <img src="https://github.com/VSat08/VSat08/assets/88581395/3314b8a8-b4a3-4ecb-9b5b-a93802f12de6" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>To-Do App</h3>
+      <p>Modern task management application with a sleek UI using React.js and JavaScript.</p>
+      <img src="https://github.com/VSat08/VSat08/assets/88581395/199d95ce-29d9-4f6c-8409-4bcae148f2f5" width="100%">
+    </td>
+    <td align="center" width="50%">
+      <h3>YouTube Clone</h3>
+      <p>Responsive web application mimicking YouTube functionality using React, Tailwind CSS, API.</p>
+      <img src="https://github.com/VSat08/VSat08/assets/88581395/a152e0e1-0855-4582-aebe-9cf296c78150" width="100%">
+    </td>
+  </tr>
+</table>
+</div>
 
 ---
 

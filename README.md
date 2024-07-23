@@ -55,7 +55,7 @@
   <tr>
     <td align="center" width="50%">
       <h3>AbodeAlly</h3>
-      <p>A real estate full stack app</p>
+      <p>A MERN application boasts a sleek, appealing aesthetic UI that’s both mobile-responsive and mobile-oriented, ensuring a seamless experience on any device.</p>
       <img src="https://github.com/user-attachments/assets/d35130f1-6e47-4ec8-b23b-a5b3e5864afc" width="100%">
     </td>
     <td align="center" width="50%">

@@ -42,7 +42,7 @@
     </td>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VSat08&layout=compact&card_width=425&border_radius=28&height=195" alt="Top Langs">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VSat08&layout=donut&border_radius=28">
       </a>
     </td>
   </tr>

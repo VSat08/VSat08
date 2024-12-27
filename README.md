@@ -112,7 +112,7 @@
 ---
 
 ## 💬 Ask me about
-- 💻 Web development
+- 💻 Fullstack development
 - 🎨 UI/UX design
 - ☁️ Cloud computing
 - 🛠️ Any tech-related topics

@@ -1,8 +1,8 @@
 ![Header](https://github.com/user-attachments/assets/6907a812-6cd0-4cd4-9dbf-60784fd9948d)
 ---
 🚀 **A curious soul and Developer from India!:**
-- 🌐 Full Stack Development
 - 🎨 UI/UX Design
+- 🌐 Full Stack Development
 - ☁️ Cloud Computing
 
 
